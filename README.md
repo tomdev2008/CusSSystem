@@ -48,3 +48,5 @@ http://localhost:8080/kfxt/kfym.jsp?acceptname=yh&sendname=kf
 <ul>
   <li>tomcat使用7.0及以上、SqlServer2012以上、jdk1.7以上</li>
 </ul>
+### 界面截图
+
