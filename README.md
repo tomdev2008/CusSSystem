@@ -1,5 +1,6 @@
 # CusSSystem
 基于WebSocket的在线客服系统
+前端页面采用Amaze框架开发
 ### 完整下载后导入到eclipse中
 
 ```
@@ -8,6 +9,14 @@ http://localhost:8080/kfxt/index.jsp?acceptname=kf&sendname=yh
 客服页面
 http://localhost:8080/kfxt/kfym.jsp?acceptname=yh&sendname=kf
 ```
+
+### 环境
+
+<ul>
+  <li>jdk1.7</li>
+  <li>tomcat7.0</li>
+  <li>SqlServer</li>
+</ul>
 
 ### 用户登录检查
 
@@ -34,3 +43,8 @@ http://localhost:8080/kfxt/kfym.jsp?acceptname=yh&sendname=kf
 - [ ] 聊天群组（聊天室）
 - [ ] 公告管理
 - [ ] 管理员管理聊天系统状态
+
+### 注意
+<ul>
+  <li>tomcat使用7.0及以上、SqlServer2012以上、jdk1.7以上</li>
+</ul>
