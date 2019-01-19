@@ -49,4 +49,8 @@ http://localhost:8080/kfxt/kfym.jsp?acceptname=yh&sendname=kf
   <li>tomcat使用7.0及以上、SqlServer2012以上、jdk1.7以上</li>
 </ul>
 ### 界面截图
-
+![avatar](https://github.com/breeze12/CusSSystem/blob/master/img/2019-01-19_16h11_11.png)
+![avatar](https://github.com/breeze12/CusSSystem/blob/master/img/2019-01-19_16h11_34.png)
+![avatar](https://github.com/breeze12/CusSSystem/blob/master/img/2019-01-19_16h12_22.png)
+![avatar](https://github.com/breeze12/CusSSystem/blob/master/img/2019-01-19_16h12_34.png)
+![avatar](https://github.com/breeze12/CusSSystem/blob/master/img/2019-01-19_16h12_40.png)
